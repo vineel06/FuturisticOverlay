@@ -42,7 +42,7 @@ It demonstrates real-time system monitoring, GPU integration, UI engineering, an
 ## ⚙️ Installation (Run from Source)
 Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/FuturisticOverlay.git
+git clone https://github.com/vineel06/FuturisticOverlay.git
 cd FuturisticOverlay
 
 Install dependencies:
@@ -96,5 +96,6 @@ FuturisticOverlay/
 👨‍💻 Author
 Vineel
 AI & ML Engineering 1st Year Student
+
 
 Built as a hands-on systems programming and desktop application engineering project.
