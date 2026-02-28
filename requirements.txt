@@ -1,0 +1,5 @@
+psutil
+nvidia-ml-py
+wmi
+PyQt6
+pyinstaller
