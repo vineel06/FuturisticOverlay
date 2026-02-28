@@ -99,3 +99,6 @@ AI & ML Engineering 1st Year Student
 
 
 Built as a hands-on systems programming and desktop application engineering project.
+
+## 📸 Preview
+![Overlay Screenshot](screenshot.png)
